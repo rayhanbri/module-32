@@ -1,10 +1,13 @@
+//pass by value , pass by reference 
 
+// https://web.programming-hero.com/web-11/video/web-11-32-7-1-pass-by-value-and-pass-by-reference  
 
 // function sum(a,b,c,d){
 //   // console.log(a,b,c);
 //   console.log(arguments)
 //   // eita array like object  , eikhane sudo loop chalano jabe onno kichu na 
 //   const newArg=[...arguments];
+// ekhon ja icca kora jabe 
 //   console.log(newArg)
 // }
 

@@ -1,4 +1,4 @@
-
+//what is  callback  function 
 
 // function ghotok (patri){
 //   console.log(patri)

@@ -1,4 +1,5 @@
 // what is hoesting in js
+//global scope ?
 
 function sum(num1, num2) {
     //brakcer er bhitroe block bole 
