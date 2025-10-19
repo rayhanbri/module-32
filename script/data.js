@@ -1,5 +1,5 @@
-// primive data type 
-// there is only two type of data 
+// primive data type , what is non-primitive data type 
+// there is only two type of data  difference between them
 
 // const name = ' rayhan';
 
@@ -7,6 +7,7 @@
 const array = [1,'rayhan',13]
 
 // array and Object only non primitive 
+//what is type conversition in javascript w3 school
 
 // it is not changable 
 // let person = 'gias uddin';
