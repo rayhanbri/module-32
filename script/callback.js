@@ -1,24 +1,18 @@
 //what is  callback  function 
-
-// function ghotok (patri){
-//   console.log(patri)
-// }
-
-// const  patri = 'rohima'
-// const  patri = ['rohma','jorina']
-
+// A callback function is a function that is passed as an argument to another function, and is executed after some operation is completed.
 
 // call back function
-// function ghotok (patri,name){
-//    patri(name)
+// greet is the call back function 
+
+// function greet (name){
+//     console.log('i am callback',name)
 // }
 
-// const patri = function(name){
-//   console.log('okay ami paichi1',name)
-// }
-// const patri2 = function(name){
-//   console.log('okay ami paichi2',name)
+
+// function passValue(callback){
+//     let name = 'rayhan';
+//     callback(name)
 // }
 
-// ghotok(patri,'hero')
-// ghotok(patri2,'rayhan')
+// passValue(greet)
+
